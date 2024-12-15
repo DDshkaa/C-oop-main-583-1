@@ -1,0 +1,5 @@
+﻿  DynamicArray.cpp
+  laboratorywork1.cpp
+  Создание кода...
+C:\Users\user\Desktop\DataStructers-master\laboratorywork1\DynamicArray.cpp(39,1): warning C4715: CheckRange: значение возвращается не при всех путях выполнения
+  laboratorywork1.vcxproj -> C:\Users\user\Desktop\DataStructers-master\x64\Debug\laboratorywork1.exe
