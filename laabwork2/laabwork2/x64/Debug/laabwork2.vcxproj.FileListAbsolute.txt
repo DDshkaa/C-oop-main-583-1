@@ -1,0 +1,3 @@
+C:\Users\user\source\repos\laabwork2\laabwork2\x64\Debug\laabwork2.exe
+C:\Users\user\Desktop\laabwork2\laabwork2\x64\Debug\laabwork2.exe
+C:\Users\user\Desktop\3 СЕМЕСТР\СД\лабы ТИПО мои\laabwork2\laabwork2\x64\Debug\laabwork2.exe
