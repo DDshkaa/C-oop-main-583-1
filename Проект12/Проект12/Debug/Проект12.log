@@ -1,0 +1,4 @@
+﻿  LaboratoryWork2.cpp
+C:\Users\user\Desktop\Проект12\Проект12\LaboratoryWork2.cpp(52,34): warning C4101: e: неиспользованная локальная переменная
+C:\Users\user\Desktop\Проект12\Проект12\LaboratoryWork2.cpp(57,30): warning C4101: e: неиспользованная локальная переменная
+  Проект12.vcxproj -> C:\Users\user\Desktop\Проект12\Debug\Проект12.exe
