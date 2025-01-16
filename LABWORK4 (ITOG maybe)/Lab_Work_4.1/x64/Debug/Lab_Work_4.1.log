@@ -1,0 +1,6 @@
+﻿  Laboratory_Work.cpp
+C:\Users\user\Desktop\labwork 4 ROMA\Lab_Work_4.1\HashTable.h(25,25): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "Laboratory_Work.cpp")
+  
+C:\Users\user\Desktop\labwork 4 ROMA\Lab_Work_4.1\Laboratory_Work.cpp(32,36): warning C4101: e: неиспользованная локальная переменная
+  Lab_Work_4.1.vcxproj -> C:\Users\user\Desktop\labwork 4 ROMA\x64\Debug\Lab_Work_4.1.exe
