@@ -1,0 +1,5 @@
+﻿  HashTable.cpp
+C:\Users\user\Desktop\Lab4 final\Lab_Work_4.1\HashTable.h(25,25): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "HashTable.cpp")
+  
+  Lab_Work_4.1.vcxproj -> C:\Users\user\Desktop\Lab4 final\x64\Debug\Lab_Work_4.1.exe
